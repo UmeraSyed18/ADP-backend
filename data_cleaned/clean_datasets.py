@@ -20,7 +20,6 @@ print(f"\u2714 Earthquake data cleaned: {len(earthquakes)} rows saved.")
 
 
 # 2. Clean Fire Data
-
 from pathlib import Path
 import os
 import pandas as pd
