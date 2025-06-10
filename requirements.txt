@@ -1,7 +1,11 @@
-Flask
-flask-cors
-geopy
-joblib
+Flask==3.1.1
+Flask-Cors==6.0.0
+pandas==2.3.0
 numpy
-pandas
-scikit-learn
+joblib==1.5.1
+scikit-learn==1.6.1
+scipy==1.15.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+geopy==2.4.1
